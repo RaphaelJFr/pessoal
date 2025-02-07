@@ -1,0 +1,7 @@
+﻿  App04.cpp
+C:\Users\Raphael\source\repos\App04\App04\App04.cpp(57,25): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  Generating code
+  Previous IPDB not found, fall back to full compilation.
+  All 173 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Finished generating code
+  App04.vcxproj -> C:\Users\Raphael\source\repos\App04\x64\Release\App04.exe

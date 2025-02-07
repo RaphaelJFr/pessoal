@@ -1,0 +1,3 @@
+﻿  App04.cpp
+C:\Users\Raphael\Documents\Pessoal-git\pessoal\App04\App04\App04.cpp(43,25): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  App04.vcxproj -> C:\Users\Raphael\Documents\Pessoal-git\pessoal\App04\x64\Debug\App04.exe
